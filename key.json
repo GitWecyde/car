@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mtleasecar-6062f",
+  "private_key_id": "60bc0d1a0cc30530751ce231e6cc81d80b0ce615",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvZg696nTOgMxu\nt1sQUa6mMrKhkvetM79pLKeMhQx2tRtvJebRZl5nTv1VQmtmBr2/r+dqE8GZ+StS\nAglc2y5myviXOh8e35rqfDlDCng60IIlfNSQfIrHTuSmUtneiqDAYXgqWptZRie5\nPoq0sw8dlhbrW626C6YaamSsPbd4N2VgrVX3s5FvHPSyqzcTPtVUF2HQ0+1oTRS2\n5dfkUKGqBzh1w5ZSV3elST+RFJOaUO8X+1JAzOXAjNVTN+SlPyCj23slec5ILJSt\nkyv7jp7FwsJjqUgCACqS2bm3ZPnEpP8GDKtXRRIaR0yNM9wIlU1kvbcQ8ngtfpyi\nGQdweou1AgMBAAECggEAGdIQoAEklmTME41u/LFFoGZMuS/xQaBhUHqYJL3OZqhF\nJGDkQJXNFnDApv064b9izhX3X3yOjtvpNm6h0bdbdprxKxQNkkYxIE1OwbGIHwJk\ncl/Uy/tlk68nxltigtoODZwbrEJ/5Y3IGcNc+Hp2onCeqaGqqr19w5w/e0KvoGTq\nSsTUzyNjs9nVxWF5G3Y0GoqfJXy1JAn+3LxaZCAq7w2r2472lKVMDDtrJqyssG+0\niu7+N6hxEHMaZetcQvnO1C/D7rUhntXZQoHlfutTw4VgVI2CrGJQeMipOr/WddrA\nmZBwC9vgQGgZDiwRBy7Dbi2i+GP5kNCcqes3nNTZCQKBgQDzmyldME/TKie6VFpg\n/kjkCZIdMW2GlGNL7DRVV5l2ib+8A4YIe2tpZxSguyuS6OIygUbf7g6wraqR+AcR\nOCETjtHKgTb+xjHgHSoOuDeck91zvr99RdqE9aqBNuNUBqhpLox5FpxG2R/8zC6+\nJCXSRpk/N3gAXUDCvJ72SmPXbQKBgQC4Uofj5ZnJDKFjcDoR33VjC6CdGzb3r/Y0\nh5umDbtyEu+m7BRGkjUHC3BffqzmDKDhkwkWlQkip6p/dOjEIiKZsIq35/7mTUn0\njLfXtsHWyBQNT6DcqybkKQgwFhLz0m0NxSoP0OJRd1CZu25jR9HtoTVwlb5RgMCT\nKSZqYjXwaQKBgG6d00+Ug3rQlo+ehBes/+5EhkupSSGmOdyc2jqyd2YDMMQwGWm6\nmVCYVR6TPzsLcsMaPtOqJpOFmIGFzbe89BAMdyjsOcvAtZ8dvx5F+kKoRhOr1woM\ncSiU4SKhiOJ7z3dLgs/tO3NUXpkNImCGy4HLOwUgq+YGckS7H7eYmfOVAoGBAJec\nOu43YuE+JFl4bCtbVGDdpYTUZ8gf0jGvAVX6oZ3Y+YqhUKQjir56qDnEJk8rQAGL\nQcRzXgpFQzaHYRZCxZcI4XEXwFCKbjRasrUaPCKAfA3e23/mv5yYK4XyAjDPeqgC\n7vAHbsB3lbJ9uvSqlIATQ7ORV/QOJVhmVpTWp2tRAoGAbHF3J8kFlLCEN9ESl7cO\n+Gy53QLzMHYA/Bqed+R+eGd/oo/UAjBYyIugojaE8RKsxe9igXBOzZ1dYyHEPiyX\n7acKk6bz+YhqSrfyBPvfWeqB3hx3tjFlCWKCkgyz0+mSUsnoMRZ3wWrPCbSSM6Ue\nr6OxDbdFre+qi/ECiUsxhH0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n0hgi@mtleasecar-6062f.iam.gserviceaccount.com",
+  "client_id": "103484308431130268694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n0hgi%40mtleasecar-6062f.iam.gserviceaccount.com"
+}
